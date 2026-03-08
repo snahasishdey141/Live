@@ -39,7 +39,12 @@ const channels: Channel[] = [
   {
     id: "2",
     name: "Star Sports",
-    url: "https://grand-s-main.faggotsports.tv/out/v2/3a5b67d896f26d4ed700b86c64053eb7/index.m3u8",
+    servers: [
+      {
+        name: "Server 1",
+        url: "https://grand-s-main.faggotsports.tv/out/v2/3a5b67d896f26d4ed700b86c64053eb7/index.m3u8",
+      },
+    ],
     category: "Sports",
     logo: "⭐",
     description: "India's No.1 Sports Channel – Live Action 24/7",
