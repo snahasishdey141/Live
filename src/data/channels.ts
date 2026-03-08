@@ -26,7 +26,7 @@ const channels: Channel[] = [
       },
       {
         name: "Server 2",
-        url: "https://cric-612.esports-com-pk-61e.workers.dev/live/starhindi.m3u8",
+        url: "https://live15p.hotstar.com/hls/live/2116748/inallow-icct20wc-2026/ben/1540062397/15mindvrm013a4e2de894204cfc98f4f64e2f73affc08march2026/master_apm_720_3.m3u8",
       },
     ],
     category: "Sports",
