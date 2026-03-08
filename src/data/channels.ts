@@ -26,7 +26,7 @@ const channels: Channel[] = [
       },
       {
         name: "Server 2",
-        url: "https://euc13.playlist.live-video.net/v1/playlist/CrkFBUen2C9HwnLkUqtJGmjiUgHOlzwg-SM5B05UEcMuiksFp77S9PGr9w6HH9XlkQcaBupOTEtZddQHZR-hTbGGFE1TocatfXr5p0ZARfksIizw8ritmDawfWrWeMZxRveU9VFOMEVS8AOWsqJNHvKUiodJxMXWBPJH9HWGrbY-90RZsSYhBJ8hFDny4dW_R1YR3_CQP05JzxlxdQAAcitsMhYLA2y64KEbrT6Wgb9Evkyvjl96af1qm-PUFJZl7OPHrLak_Or-Yw7hx4xzkOhOrcK3hkMrhxsbMViUyZF9abNRVRFOOORAwIWeegrRuEbodGyxHujPZPkqwIw94QMvF_oK1Q0SZCLrCKT2QgUhVvtVcvhUkYJV2SHUG_8MlGpI_Cztg4yQlnjgKjj9qmMLWhL9inBrnnFX5ibgVaUweFRYq4s151al8X5zALiD0ebKE01pUYdnl0HTIIeNdWyY6mT0BKR9dnltXoHW_mbXpdv3VXVJ-Vimu2mjOZRllilrbQKZe0tuoBU0nQKVe1-oMYfJFP0etPB-oxayTi4HozGwS-Rr7ncgG6C8Ut8uUVtkLDiynBguRf9Kuyo1EpvG_e6nHsfLr8wpFCeMrjh4Hggmwy8kx7N1TnCCLgUzn5G2QYa5NZ1VO4uvJSelEjWCPMVr4ed0bkcURuOa1RgLXjiL3xeQ0tBL6Z62gAA0iD0j36JgXvTYjE-zwsQHZE-6ekyZPq2nmsoZHHvyQJaD81hvu-xfJTF50dQscCW1UgNAMxFXfuZk9rx3RneNYnXc7G9LOl2gMJLH9CIkaAYp6DTCXT1RPHmgbZeTBReSBTuSHYqU1fNCGykvSNy60GFHbJFPqXtRHXOxBDLd9pGaFLRnz5ELxkhXz31E1_NFBp1sWrfVUY0TfV54O2Fur5YzJxt5H34qQXJEAxoMx38omsMdRvYAe7WWIAEqCWV1LXdlc3QtMjDNDg.m3u8",
+        url: "https://cric-612.esports-com-pk-61e.workers.dev/live/starhindi.m3u8",
       },
     ],
     category: "Sports",
